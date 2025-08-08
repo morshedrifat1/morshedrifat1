@@ -20,7 +20,7 @@
 - Exploring advanced motion graphics for web development.
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/mdrhtahsin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahimultahsin) [![Twitter Follow](https://img.shields.io/twitter/follow/MdrhTahsin?style=social)](https://x.com/MdrhTahsin)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/morshedrifat1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/morshedrifat1)
 
 
 
