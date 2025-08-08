@@ -2,6 +2,9 @@
 <h1 align="center">Hi 👋, I'm Morshed Rifat</h1>
 <h3 align="center">💻 Frontend-Focused MERN Stack Web Developer from Bangladesh</h3>
 
+<a href="https://www.facebook.com/mdrhtahsin10/">
+<img src="[https://raw.githubusercontent.com/mdrahimultahsin/mdrahimultahsin/main/github_banner.jpg](https://raw.githubusercontent.com/morshedrifat1/morshedrifat1/refs/heads/main/banner.jpg)" />
+</a>
 ---
 
 ## 🚀 About Me
